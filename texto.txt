@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificado
+=======
+hola a todos
+>>>>>>> e0cdace641832c93fc6fa63ad865853a17682434
